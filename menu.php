@@ -1,0 +1,1 @@
+<a href="index.php">VIEW</a> | <a href="mhs_add.php">ADD</a>
